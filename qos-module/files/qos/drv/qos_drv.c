@@ -65,6 +65,7 @@
 #include <linux/fs.h>
 #include <linux/miscdevice.h>
 #include <linux/platform_device.h>
+#include <linux/mod_devicetable.h>
 #include <linux/ioctl.h>
 #include <linux/slab.h>
 #include <linux/uaccess.h>
