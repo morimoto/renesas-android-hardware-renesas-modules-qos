@@ -69,6 +69,7 @@
 #include <linux/ioctl.h>
 #include <linux/slab.h>
 #include <linux/uaccess.h>
+#include <linux/of.h>
 
 #include "qos_core.h"
 #include "qos_reg.h"
